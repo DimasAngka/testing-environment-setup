@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1757601675426" clover="3.2.0">
-  <project timestamp="1757601675426" name="All files">
+<coverage generated="1757608128337" clover="3.2.0">
+  <project timestamp="1757608128337" name="All files">
     <metrics statements="40" coveredstatements="18" conditionals="35" coveredconditionals="13" methods="16" coveredmethods="6" elements="91" coveredelements="37" complexity="0" loc="40" ncloc="40" packages="1" files="2" classes="2"/>
-    <file name="book.js" path="C:\TestingEnvironment\Projects\book-manager-node\book.js">
+    <file name="book.js" path="C:\TestingEnvironment\up\book-manager-node\book.js">
       <metrics statements="14" coveredstatements="7" conditionals="17" coveredconditionals="9" methods="3" coveredmethods="1"/>
       <line num="3" count="2" type="cond" truecount="3" falsecount="1"/>
       <line num="4" count="0" type="stmt"/>
@@ -19,7 +19,7 @@
       <line num="29" count="0" type="cond" truecount="0" falsecount="3"/>
       <line num="35" count="1" type="stmt"/>
     </file>
-    <file name="bookmanager.js" path="C:\TestingEnvironment\Projects\book-manager-node\bookmanager.js">
+    <file name="bookmanager.js" path="C:\TestingEnvironment\up\book-manager-node\bookmanager.js">
       <metrics statements="26" coveredstatements="11" conditionals="18" coveredconditionals="4" methods="13" coveredmethods="5"/>
       <line num="1" count="1" type="stmt"/>
       <line num="5" count="5" type="stmt"/>
